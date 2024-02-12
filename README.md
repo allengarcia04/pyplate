@@ -1,8 +1,8 @@
 # PyPlate: A Python Food Ordering System
 
-## Why?
+## About
 
-PyPlate is a Python-based food ordering system designed to streamline the process of managing orders, bookings, and transactions for restaurants or food establishments. The motivation behind this project is to provide a robust, user-friendly, and tech-savvy solution to enhance the efficiency of food service operations.
+PyPlate is a Python-based food ordering system designed to streamline the process of managing orders, bookings, and transactions for restaurants or food establishments. This is a Python script that serves as the backend logic for a Food Ordering System. The motivation behind this project is to provide a robust, user-friendly, and tech-savvy solution to enhance the efficiency of food service operations.
 
 ## Quick Start
 
